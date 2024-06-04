@@ -8,3 +8,6 @@ This is a simple number guessing game implemented in Python. The game randomly s
 - **Loops and Conditionals:** Implements game logic using `while` loops and `if-elif-else` conditionals.
 - **Dictionary Usage:** Uses a dictionary to map difficulty levels to the number of tries.
 - **Code Documentation:** Provides clear and concise comments explaining the code.
+
+## Ascii art
+[Create your own Ascii text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
